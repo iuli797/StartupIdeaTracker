@@ -23,13 +23,12 @@ Navigation Compose: Gestionează rutele (NavHost, NavController) și tranziția 
 
 Cum se rulează proiectul
 Clonează acest repository pe mașina locală.
-<img width="1108" height="672" alt="image" src="https://github.com/user-attachments/assets/95c7a1ae-5045-4e64-82fe-2993ead90dc9" />
-<img width="953" height="607" alt="image" src="https://github.com/user-attachments/assets/24a07f5c-1591-4096-ac9b-008a9ec10b25" />
-
-
 
 Deschide proiectul folosind Android Studio.
 
 Așteaptă finalizarea procesului Gradle Sync pentru descărcarea dependențelor necesare (inclusiv androidx.navigation:navigation-compose).
 
 Rulează aplicația pe un emulator (recomandat API 24+) sau pe un dispozitiv fizic conectat.
+
+<img width="1108" height="672" alt="image" src="https://github.com/user-attachments/assets/95c7a1ae-5045-4e64-82fe-2993ead90dc9" />
+<img width="953" height="607" alt="image" src="https://github.com/user-attachments/assets/24a07f5c-1591-4096-ac9b-008a9ec10b25" />
